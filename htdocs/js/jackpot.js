@@ -1,4 +1,4 @@
-var HOST = "localhost:3000";
+var HOST = "steemcasino.org:8443";
 var socket = null;
 var state;
 
