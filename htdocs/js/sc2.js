@@ -32,7 +32,7 @@ function SetProfileInfo()
 		
 				if(urlFilename != "index.php" && urlFilename != "credits.php")
 				{
-					window.location.href = "http://localhost/index.php";
+					window.location.href = "https://steemcasino.org/index.php";
 				}
 				
 				var loginUrl = sc2.getLoginURL();
@@ -47,7 +47,7 @@ function SetProfileInfo()
 		
 		if(urlFilename != "index.php" && urlFilename != "credits.php")
 		{
-			window.location.href = "http://localhost/index.php";
+			window.location.href = "https://steemcasino.org/index.php";
 		}
 		
 		var loginUrl = sc2.getLoginURL();
